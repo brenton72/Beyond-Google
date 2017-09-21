@@ -1,1 +1,1 @@
-# Team Name: CancerDetectionSquad-CDS
+# Team Name: Cancer Detection Squad (CDS)
